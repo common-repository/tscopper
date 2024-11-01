@@ -1,0 +1,78 @@
+@CHARSET "UTF-8";
+  #content table.tscopper {
+    width: auto;
+    border-width: 0px;
+    border-spacing: 15px;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+  }
+  #content table.tscopper th {
+    border-width: 0px;
+    padding: 0px;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    -moz-border-radius: ;
+  }
+  #content table.tscopper tr {
+     border-width: 0px;
+  }
+  #content table.tscopper td {
+   overflow: fixed;
+    border-width: 15px;
+    padding: 0px;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    -moz-border-radius: ;
+  }
+  #content img.tscopper {
+    vertical-align: middle;
+    width: 100%;
+    padding: 0px;
+    border: 0px;
+  }
+  
+ table.tscopper {
+    width: auto;
+    border-width: 0px;
+    border-spacing: 15px;
+    border-style: solid;
+    border-color: black;
+    background-color: red;
+  }
+ table.tscopper th {
+    border-width: 0px;
+    padding: 0px;
+    border-style: solid;
+    border-color: black;
+    background-color: red;
+    -moz-border-radius: ;
+  }
+ table.tscopper tr {
+     border-width: 0px;
+  }
+ table.tscopper td {
+   overflow: fixed;
+    border-width: 15px;
+    padding: 0px;
+    border-style: solid;
+    border-color: black;
+    background-color: red;
+    -moz-border-radius: ;
+  }
+ img.tscopper {
+    vertical-align: middle;
+    width: 100%;
+    padding: 0px;
+    border: 0px;
+  }
+
+.center {
+	  padding-left: 0px;
+	  padding-right: 0px;
+	  padding-top: 0px;
+	  padding-bottom: 0px;
+	}
+  
